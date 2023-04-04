@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, Data Analytics, Django**
 
-- 📫 How to reach me **punit@protonmail.com**
+- 📫 How to reach me **punit@brainesy.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
